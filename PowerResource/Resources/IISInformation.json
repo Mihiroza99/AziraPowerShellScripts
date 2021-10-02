@@ -1,0 +1,78 @@
+{
+  "IISInformation": [
+    {
+      "id": 0,
+      "item": "Windows Version",
+      "Tooltip": "Display Windows Version"
+
+    },
+    {
+      "id": 1,
+      "item": "IIS Version",
+      "Tooltip": "Display IIS Version"
+    },
+    {
+      "id": 2,
+      "item": "Host Name",
+      "Tooltip": "Display Host Name"
+    },
+    {
+      "id": 3,
+      "item": "Dot Net35 Status",
+      "Tooltip": "Display Dot Net35 Status"
+    },
+    {
+      "id": 4,
+      "item": "Dot Net45 Status",
+      "Tooltip": "Display Dot Net45 Status"
+    },
+    {
+      "id": 5,
+      "item": "Web Core Status",
+      "Tooltip": "Display Web Core Status"
+    },
+    {
+      "id": 6,
+      "item": "Windows Process Activation Service",
+      "Tooltip": "Display Windows Process Activation Service"
+    },
+    {
+      "id": 7,
+      "item": "SSL Certificate",
+      "Tooltip": "Display SSL Certificate"
+    },
+    {
+      "id": 8,
+      "item": "Compression Setting Application Static Types",
+      "Tooltip": "Display Compression Setting Application Static Types"
+    },
+    {
+      "id": 9,
+      "item": "Compression Setting Application DynamicTypes",
+      "Tooltip": "Display Compression Setting Application DynamicTypes"
+    },
+    {
+      "id": 10,
+      "item": "Compression Setting Image Static Types",
+      "Tooltip": "Display Compression Setting Image Static Types"
+    },
+    {
+      "id": 11,
+      "item": "Compression Setting Image Dynamic Types",
+      "Tooltip": "Display Compression Setting Image Dynamic Types"
+    }
+  ],
+  "Credential": {
+    "MachineMode": "",
+    "MachineHostName ": "",
+    "MachinePortNumber": "",
+    "MachineUserName": "",
+    "MachinePassword": "",
+    "SqlAuthMode": "",
+    "SqlInstanceName ": "",
+    "SqlUserName": "",
+    "SqlPassword": "",
+    "SqlDatabaseName": ""
+  }
+}
+

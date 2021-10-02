@@ -1,0 +1,127 @@
+{
+  "ApplicationInformation": [
+    {
+      "id": 0,
+      "item": "Total Cpu Count",
+      "Tooltip": "Display Total Cpu Count"
+    },
+    {
+      "id": 1,
+      "item": "Update Date Object",
+      "Tooltip": "Display Update Date Object"
+    },
+    {
+      "id": 2,
+      "item": "CPU Details",
+      "Tooltip": "Display CPU Details"
+    },
+    {
+      "id": 3,
+      "item": "NZIS Service",
+      "Tooltip": "Display NZIS Service"
+    },
+    {
+      "id": 4,
+      "item": "NZTask Service",
+      "Tooltip": "Display NZTask Service"
+    },
+    {
+      "id": 5,
+      "item": "Server Name",
+      "Tooltip": "Display Server Name"
+    },
+    {
+      "id": 6,
+      "item": "RAM",
+      "Tooltip": "Display RAM"
+    },
+    {
+      "id": 7,
+      "item": "Windows Version",
+      "Tooltip": "Display Windows Version"
+    },
+    {
+      "id": 8,
+      "item": "Is 64Bit OS",
+      "Tooltip": "Display Is 64Bit OS"
+    },
+    {
+      "id": 9,
+      "item": "Is 64Bit Process",
+      "Tooltip": "Display Is 64Bit Process"
+    },
+    {
+      "id": 10,
+      "item": "Domain",
+      "Tooltip": "Display Domain"
+    },
+    {
+      "id": 11,
+      "item": "Connection Timeout",
+      "Tooltip": "Display Connection Timeout"
+    },
+    {
+      "id": 12,
+      "item": "ssl2",
+      "Tooltip": "Display ssl2"
+    },
+    {
+      "id": 13,
+      "item": "ssl3",
+      "Tooltip": "Display ssl3"
+    },
+    {
+      "id": 14,
+      "item": "tls",
+      "Tooltip": "Display tls"
+    },
+    {
+      "id": 15,
+      "item": "tls11",
+      "Tooltip": "Display tls11"
+    },
+    {
+      "id": 16,
+      "item": "tls12",
+      "Tooltip": "Display tls12"
+    },
+    {
+      "id": 17,
+      "item": "ssslv2",
+      "Tooltip": "Display ssslv2"
+    },
+    {
+      "id": 18,
+      "item": "ssslv3",
+      "Tooltip": "Display ssslv3"
+    },
+    {
+      "id": 19,
+      "item": "tsls11",
+      "Tooltip": "Display tsls11"
+    },
+    {
+      "id": 20,
+      "item": "tlsv12",
+      "Tooltip": "Display tlsv12"
+    },
+    {
+      "id": 21,
+      "item": "stlsv10",
+      "Tooltip": "Display stlsv10"
+    }
+  ],
+  "Credential": {
+    "MachineMode": "",
+    "MachineHostName ": "",
+    "MachinePortNumber": "",
+    "MachineUserName": "",
+    "MachinePassword": "",
+    "SqlAuthMode": "",
+    "SqlInstanceName ": "",
+    "SqlUserName": "",
+    "SqlPassword": "",
+    "SqlDatabaseName": ""
+  }
+}
+

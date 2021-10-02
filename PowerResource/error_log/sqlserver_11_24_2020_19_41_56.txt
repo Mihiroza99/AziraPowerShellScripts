@@ -1,0 +1,6 @@
+ManagedBatchParser.ParserException
+   at ManagedBatchParser.Parser.Parse()
+   at Microsoft.SqlServer.Management.PowerShell.ExecutionProcessor.ExecuteTSql(String sqlCommand)
+
+StackTrace: at Get-MachineDetails<Process>, D:\Projects\PowershellUI\PowershellUI\PowerResource\Resources\SQLServer_param.ps1: line 463
+at <ScriptBlock>, D:\Projects\PowershellUI\PowershellUI\PowerResource\Resources\SQLServer_param.ps1: line 825

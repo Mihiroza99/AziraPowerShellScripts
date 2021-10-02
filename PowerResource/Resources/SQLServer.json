@@ -1,0 +1,277 @@
+{
+  "SQLServer": [
+    {
+      "id": 0,
+      "item": "Windows Version",
+      "Tooltip": "Display Windows Version"
+
+    },
+
+    {
+      "id": 1,
+      "item": "SQL Product Details",
+      "Tooltip": "Display SQL Product Details"
+
+    },
+
+    {
+      "id": 2,
+      "item": "C Drive Space",
+      "Tooltip": "Display C Drive Space"
+
+    },
+
+    {
+      "id": 3,
+      "item": "Drive Space Details",
+      "Tooltip": "Display Drive Space Details"
+
+    },
+
+    {
+      "id": 4,
+      "item": "SQL Memory Details",
+      "Tooltip": "Display SQL Memory Details"
+
+    },
+
+    {
+      "id": 5,
+      "item": "Backup Path",
+      "Tooltip": "Display Backup Path"
+
+    },
+
+    {
+      "id": 6,
+      "item": "LDF Size",
+      "Tooltip": "Display LDF Size"
+
+    },
+
+    {
+      "id": 7,
+      "item": "Server Version",
+      "Tooltip": "Display Server Version"
+
+    },
+
+    {
+      "id": 8,
+      "item": "Product Level",
+      "Tooltip": "Display Product Level"
+
+    },
+
+    {
+      "id": 9,
+      "item": "Full Text Search Enabled",
+      "Tooltip": "Display Full Text Search Enabled"
+
+    },
+
+    {
+      "id": 10,
+      "item": "SQL Language",
+      "Tooltip": "Display SQL Language"
+
+    },
+
+    {
+      "id": 11,
+      "item": "SQL Edition",
+      "Tooltip": "Display SQL Edition"
+
+    },
+
+    {
+      "id": 12,
+      "item": "DB Collation Name",
+      "Tooltip": "Display DB Collation Name"
+
+    },
+
+    {
+      "id": 13,
+      "item": "CLR Version",
+      "Tooltip": "Display CLR Version"
+
+    },
+
+    {
+      "id": 14,
+      "item": "SQL Port",
+      "Tooltip": "Display SQL Port"
+
+    },
+
+    {
+      "id": 15,
+      "item": "Server Name",
+      "Tooltip": "Display Server Name"
+
+    },
+
+    {
+      "id": 16,
+      "item": "Recomended CPU",
+      "Tooltip": "Display Recomended CPU"
+
+    },
+
+    {
+      "id": 17,
+      "item": "Number Format",
+      "Tooltip": "Display Number Format"
+
+    },
+
+    {
+      "id": 18,
+      "item": "SQL License",
+      "Tooltip": "Display SQL License"
+
+    },
+
+    {
+      "id": 19,
+      "item": "Max Dop",
+      "Tooltip": "Display Max Dop"
+
+    },
+
+    {
+      "id": 20,
+      "item": "Numa Nodes",
+      "Tooltip": "Display Numa Nodes"
+
+    },
+
+    {
+      "id": 21,
+      "item": "Cost Of Threshold",
+      "Tooltip": "Display Cost Of Threshold"
+
+    },
+
+    {
+      "id": 22,
+      "item": "Server Type",
+      "Tooltip": "Display Server Type"
+
+    },
+
+    {
+      "id": 23,
+      "item": "DB Name",
+      "Tooltip": "Display DB Name"
+
+    },
+
+    {
+      "id": 24,
+      "item": "DB Mail Enabled",
+      "Tooltip": "Display DB Mail Enabled"
+
+    },
+
+    {
+      "id": 25,
+      "item": "DB Mail Status",
+      "Tooltip": "Display DB Mail Status"
+
+    },
+
+    {
+      "id": 26,
+      "item": "FileStream Config Level",
+      "Tooltip": "Display FileStream Config Level"
+
+    },
+
+    {
+      "id": 27,
+      "item": "File Stream Access Level",
+      "Tooltip": "Display File Stream Access Level"
+
+    },
+
+    {
+      "id": 28,
+      "item": "File Stream Size",
+      "Tooltip": "Display File Stream Size"
+
+    },
+
+    {
+      "id": 29,
+      "item": "CLR Enabled",
+      "Tooltip": "Display CLR Enabled"
+
+    },
+
+    {
+      "id": 30,
+      "item": "DB Recovery Model",
+      "Tooltip": "Display DB Recovery Model"
+
+    },
+
+    {
+      "id": 31,
+      "item": "DB Compatibility Level",
+      "Tooltip": "Display DB Compatibility Level"
+
+    },
+
+    {
+      "id": 32,
+      "item": "DB Last Backup Date",
+      "Tooltip": "Display DB Last Backup Date"
+
+    },
+
+    {
+      "id": 33,
+      "item": "Temp LDF Path",
+      "Tooltip": "Display Temp LDF Path"
+
+    },
+
+    {
+      "id": 34,
+      "item": "Temp MDF Path",
+      "Tooltip": "Display Temp MDF Path"
+
+    },
+
+    {
+      "id": 35,
+      "item": "MDF Path",
+      "Tooltip": "Display MDF Path"
+
+    },
+
+    {
+      "id": 36,
+      "item": "MDF Size",
+      "Tooltip": "Display MDF Size"
+
+    }
+
+
+  ],
+  "Credential": {
+    "MachineMode": "",
+    "MachineHostName ": "",
+    "MachinePortNumber": "",
+    "MachineUserName": "",
+    "MachinePassword": "",
+    "SqlAuthMode": "",
+    "SqlInstanceName ": "",
+    "SqlUserName": "",
+    "SqlPassword": "",
+    "SqlDatabaseName": ""
+  }
+}
+

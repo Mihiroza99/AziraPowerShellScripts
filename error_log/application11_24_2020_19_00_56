@@ -1,0 +1,5 @@
+Cannot validate argument on parameter 'Credential'. The argument is null or empty. Provide an argument that is not null or empty, and then try the command again.
+
+StackTrace: at Get-MachineDetails<Process>, D:\Projects\PowershellUI\PowershellUI\PowerResource\Resources\Application_param.ps1: line 295
+at <ScriptBlock>, D:\Projects\PowershellUI\PowershellUI\PowerResource\Resources\Application_param.ps1: line 514
+at <ScriptBlock>, <No file>: line 1

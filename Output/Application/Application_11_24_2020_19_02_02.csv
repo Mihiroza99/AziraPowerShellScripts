@@ -1,0 +1,30 @@
+﻿
+
+nTotal CPU Count                                 : 8
+Last Update Date                                 : 22-11-2020 09:42:05
+Date Format                                      : dd-MM-yyyy
+Windows Service [AZ IS Scheduler Service]        : 
+Windows Service [AZ Task Scheduler Service]      : 
+Windows Sever                                    : VEEHA
+Workstation Name                                 : VEEHA
+Server Type                                      : Physical
+Windows Version                                  : 10.0.18363 N/A Build 18363
+Is 64 Bit OS                                     : True
+Is 64 Bit Process                                : True
+Domain                                           : WORKGROUP
+Total Physical Memory                            : 12 GB
+Security [Client SSL 2.0] Is Client SSL 2.0 is   : Disabled
+Security [Client SSL 3.0] Is Client SSL 3.0 is   : Enabled
+Security [Client TLS 1.0] Is Client TLS 1.0 is   : Enabled
+Security [Client TLS 1.1] Is Client TLS 1.1 is   : Enabled
+Security [Client TLS 1.2] Is Client TLS 1.2 is   : Enabled
+Security [Server SSL 2.0] Is Client SSL 2.0 is   : Disabled
+Security [Server SSL 3.0] Is Client SSL 3.0 is   : Disabled
+Security [Server TLS 1.0] Is Client TLS 1.0 is   : Disabled
+Security [Server TLS 1.1] Is Client TLS 1.1 is   : Disabled
+Security [Server TLS 1.2] Is Client TLS 1.2 is   : Disabled
+Sql Server Connection Timeout                    : 600
+Recommended                                      : CPUCore=4,RAM=12 GB,DISK=1169 GB
+
+
+

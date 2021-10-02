@@ -1,0 +1,87 @@
+{
+  "SSASConfiguration": [
+    {
+      "id": 0,
+      "item": "Windows Version",
+      "Tooltip": "Display Windows Version"
+
+    },
+
+    {
+      "id": 1,
+      "item": "Windows Server",
+      "Tooltip": "Display Windows Server"
+
+    },
+
+    {
+      "id": 2,
+      "item": "SSAS Connection Timeout",
+      "Tooltip": "Display SSAS Connection Timeout"
+
+    },
+
+    {
+      "id": 3,
+      "item": "Administrator",
+      "Tooltip": "Display Administrator"
+
+    },
+
+    {
+      "id": 4,
+      "item": "SSAS Version",
+      "Tooltip": "Display SSAS Version"
+
+    },
+
+    {
+      "id": 5,
+      "item": "SSAS VS Sql Version",
+      "Tooltip": "Display SSAS VS Sql Version"
+
+    },
+
+    {
+      "id": 6,
+      "item": "SSAS Server Mode",
+      "Tooltip": "Display SSAS Server Mode"
+
+    },
+
+    {
+      "id": 7,
+      "item": "SSAS Collation",
+      "Tooltip": "Display SSAS Collation"
+
+    },
+
+    {
+      "id": 8,
+      "item": "SSAS Cubes",
+      "Tooltip": "Display SSAS Cubes"
+
+    },
+
+    {
+      "id": 9,
+      "item": "SSAS Edition",
+      "Tooltip": "Display SSAS Edition"
+
+    }
+
+  ],
+  "Credential": {
+    "MachineMode": "",
+    "MachineHostName ": "",
+    "MachinePortNumber": "",
+    "MachineUserName": "",
+    "MachinePassword": "",
+    "SqlAuthMode": "",
+    "SqlInstanceName ": "",
+    "SqlUserName": "",
+    "SqlPassword": "",
+    "SqlDatabaseName": ""
+  }
+}
+

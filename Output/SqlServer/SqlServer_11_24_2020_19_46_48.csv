@@ -1,0 +1,68 @@
+﻿
+================================================
+ Windows Details
+================================================
+ Windows Version:10.0.18363 N/A Build 18363
+ Total Memory In Use: 230MB
+ Total Memory Allocated: 6665MB
+ Hard Drive C Drive: [139087.53515625/103846.93359375]
+ Available Physical Memory: 999434.3125
+ Total Physical Memory: 1196802.9921875
+================================================
+ Sql Server  Details
+================================================
+ Server Name : VEEHA
+ Recommended [SQL Server] : CPUCore=4,RAM=12 GB,DISK=1197971.9921875 GB
+ SqlProductDetails: Microsoft SQL Server 2017 (RTM) - 14.0.1000.169 (X64) 
+	Aug 22 2017 17:04:49 
+	Copyright (C) 2017 Microsoft Corporation
+	Developer Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 18363: )
+
+ serverVersion: 14.0.1000.169
+ productLevel: RTM
+ FullTextSearchEnabled: True
+ SqlLanguage: English (United States)
+ SqlEdition: Developer Edition (64-bit)
+ dbCollationName: SQL_Latin1_General_CP1_CI_AS
+ CLR Version v4.0.30319
+ PORT: 1434
+ Number Format(en-us): 987,654,321.00
+ SQL License: SQL Server detected 1 sockets with  cores per socket and 8 logical processors per socket, 8 total logical processors; using 4 logical processors based on SQL Server licensing.
+ Max DOP: N/A
+ NUMA Nodes: 1
+ Cost of Threshold DOP: 5
+ Server TYPE: HP Laptop 15-da1xxx
+ dbName: testdb
+ isDatabaseMailEnabled: 0
+ databaseMailStatus: 0
+ FileStreamConfigLevel: 0
+ FileStreamAccessLevel: 0
+ backupPath: C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\Backuptestdb.bak
+ FILESTREAM FILE Path: Filestream Not enabled in DB.
+ FILESTREAM FILE Size: 0
+ isClrEnabled: 0
+ dbRecoveryModel: Full
+ dbCompatibilityLevel: Version140
+ dbLastBackupDate: 11-08-2020Mixed
+ MDFPath: C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\DATA\master.mdf
+ MDFSize: 4.194304 MB
+ LDFSize: 2.097152 MB
+ MDFPath: C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\DATA\model.mdf
+ MDFSize: 8.388608 MB
+ LDFSize: 8.388608 MB
+ MDFPath: C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\DATA\MSDBData.mdf
+ MDFSize: 15.40096 MB
+ LDFSize: 0.786432 MB
+ MDFPath: C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\DATA\ReportServer.mdf
+ MDFSize: 8.388608 MB
+ MDFPath: C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\DATA\ReportServerTempDB.mdf
+ MDFSize: 8.388608 MB
+ LDFSize: 8.388608 MB
+ LDFSize: 75.497472 MB
+ MDFPath: C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\DATA\tempdb.mdf
+ MDFSize: 8.388608 MB
+ tempDbLdfPath:C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\DATA\templog.ldf
+ LDFSize: 8.388608 MB
+ MDFPath: C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\DATA\testdb.mdf
+ MDFSize: 8.388608 MB
+ LDFSize: 8.388608 MB

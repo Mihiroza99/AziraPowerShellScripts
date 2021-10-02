@@ -1,0 +1,46 @@
+{
+  "Eventlog": [
+    {
+      "id": 0,
+      "item": "Application",
+      "Tooltip": "Display Application Log",
+      "Value": "ApplicationInformation"
+    },
+
+    {
+      "id": 1,
+      "item": "IIS",
+      "Tooltip": "Display IIS Log",
+      "Value": "IISInformation"
+    },
+
+    {
+      "id": 2,
+      "item": "SQL Server Diagnostics",
+      "Tooltip": "Display SQL Server Diagnostics Log",
+      "Value": "SQLServerDiagnostics"
+    },
+
+    {
+      "id": 3,
+      "item": "SQL Server",
+      "Tooltip": "Display SQL Server Log",
+      "Value": "SQLServer"
+    },
+	
+	{
+      "id": 4,
+      "item": "SSRS Configuration",
+      "Tooltip": "Display SSRS Configuration Log",
+      "Value": "SSRSConfiguration"
+    },
+	
+	{
+      "id": 5,
+      "item": "SSAS Configuration",
+      "Tooltip": "Display SSAS Configuration Log",
+      "Value": "SSASConfiguration"
+    }
+  ]
+}
+

@@ -1,0 +1,101 @@
+{
+  "SQLServerDiagnostics": [
+    {
+      "id": 0,
+      "item": "Server Name",
+      "Tooltip": "Display Server Name"
+
+    },
+
+    {
+      "id": 1,
+      "item": "DB Name",
+      "Tooltip": "Display DB Name"
+
+    },
+
+    {
+      "id": 2,
+      "item": "Temp Db Exist",
+      "Tooltip": "Display Temp Db Exist"
+
+    },
+
+    {
+      "id": 3,
+      "item": "Model Db Exist",
+      "Tooltip": "Display Model Db Exist"
+
+    },
+
+    {
+      "id": 4,
+      "item": "Master Db Exist",
+      "Tooltip": "Display Master Db Exist"
+
+    },
+
+    {
+      "id": 5,
+      "item": "MS Db Exist",
+      "Tooltip": "Display MS Db Exist"
+
+    },
+
+    {
+      "id": 6,
+      "item": "Temp Db More Than One File",
+      "Tooltip": "Display Temp Db More Than One File"
+
+    },
+
+    {
+      "id": 7,
+      "item": "Model back",
+      "Tooltip": "Display Model back"
+
+    },
+
+    {
+      "id": 8,
+      "item": "Master back",
+      "Tooltip": "Display Master back"
+
+    },
+
+    {
+      "id": 9,
+      "item": "MS db back",
+      "Tooltip": "Display MS db back"
+
+    },
+
+    {
+      "id": 10,
+      "item": "DB back",
+      "Tooltip": "Display DB back"
+
+    },
+
+    {
+      "id": 11,
+      "item": "DbIntegrity Check",
+      "Tooltip": "Display DbIntegrity Check"
+
+    }
+
+  ],
+  "Credential": {
+    "MachineMode": "",
+    "MachineHostName ": "",
+    "MachinePortNumber": "",
+    "MachineUserName": "",
+    "MachinePassword": "",
+    "SqlAuthMode": "",
+    "SqlInstanceName ": "",
+    "SqlUserName": "",
+    "SqlPassword": "",
+    "SqlDatabaseName": ""
+  }
+}
+

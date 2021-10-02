@@ -1,0 +1,160 @@
+{
+  "SSRSConfiguration": [
+    {
+      "id": 0,
+      "item": "Windows Server",
+      "Tooltip": "Display Windows Server"
+
+    },
+    {
+      "id": 1,
+      "item": "Windows Version",
+      "Tooltip": "Display Windows Version"
+
+    },
+    {
+      "id": 2,
+      "item": "SSRS Connection Timeout",
+      "Tooltip": "Display SSRS Connection Timeout"
+
+    },
+    {
+      "id": 3,
+      "item": "Service Mode",
+      "Tooltip": "Display Service Mode"
+
+    },
+    {
+      "id": 4,
+      "item": "Database Name",
+      "Tooltip": "Display Database Name"
+
+    },
+    {
+      "id": 5,
+      "item": "Database Server Name",
+      "Tooltip": "Display Database Server Name"
+
+    },
+    {
+      "id": 6,
+      "item": "SSRS Instance Name",
+      "Tooltip": "Display SSRS Instance Name"
+
+    },
+    {
+      "id": 7,
+      "item": "SSRS VS SQL Version",
+      "Tooltip": "Display SSRS VS SQL Version"
+
+    },
+
+    {
+      "id": 8,
+      "item": "Web Portal URL",
+      "Tooltip": "Display Web Portal URL"
+
+    },
+
+    {
+      "id": 9,
+      "item": "Content Manager",
+      "Tooltip": "Display Content Manager"
+
+    },
+
+    {
+      "id": 10,
+      "item": "Report Manager URL",
+      "Tooltip": "Display Report Manager URL"
+
+    },
+
+    {
+      "id": 11,
+      "item": "Secure Connection Level",
+      "Tooltip": "Display Secure Connection Level"
+
+    },
+
+    {
+      "id": 12,
+      "item": "Sender Email Address",
+      "Tooltip": "Display Sender Email Address"
+
+    },
+
+    {
+      "id": 13,
+      "item": "Exec Account",
+      "Tooltip": "Display Exec Account"
+
+    },
+
+    {
+      "id": 14,
+      "item": "SSRS DBMDF Path",
+      "Tooltip": "Display SSRS DBMDF Path"
+
+    },
+
+    {
+      "id": 15,
+      "item": "SSRS DBMDF Size",
+      "Tooltip": "Display SSRS DBMDF Size "
+
+    },
+    {
+      "id": 16,
+      "item": "SSRS DBIDF Path",
+      "Tooltip": "Display SSRS DBIDF Path"
+
+    },
+
+    {
+      "id": 17,
+      "item": "SSRS DBIDF Size",
+      "Tooltip": "Display SSRS DBIDF Size "
+
+    },
+    {
+      "id": 18,
+      "item": "SSRS Temp DBMDF Path",
+      "Tooltip": "Display SSRS Temp DBMDF Path"
+
+    },
+
+    {
+      "id": 19,
+      "item": "SSRS Temp DBMDF Size",
+      "Tooltip": "Display SSRS Temp DBMDF Size"
+
+    },
+
+    {
+      "id": 20,
+      "item": "SSRS Temp DBIDF Path",
+      "Tooltip": "Display SSRS Temp DBIDF Path"
+
+    },
+    {
+      "id": 21,
+      "item": "SSRS Temp DBIDF Size",
+      "Tooltip": "Display SSRS Temp DBIDF Size"
+
+    }
+
+  ],
+  "Credential": {
+    "MachineMode": "",
+    "MachineHostName ": "",
+    "MachinePortNumber": "",
+    "MachineUserName": "",
+    "MachinePassword": "",
+    "SqlAuthMode": "",
+    "SqlInstanceName ": "",
+    "SqlUserName": "",
+    "SqlPassword": "",
+    "SqlDatabaseName": ""
+  }
+}
